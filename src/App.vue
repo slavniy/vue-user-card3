@@ -1,5 +1,5 @@
 <template>
-  <UserCard msg="Welcome to Your Vue.js App"/>
+  <UserCard nickname="larik92" fullname="Виктор Игоревич"/>
 </template>
 
 <script>
