@@ -1,6 +1,6 @@
 <template>
      <div class="user-card">
-        <img src="img/70.jpg" class="user-photo">
+        <img src="../assets/img/70.jpg" class="user-photo">
         <p class="user-nickname">romashka</p>
         <p class="user-name">
             Иванов Иван<br>
@@ -8,15 +8,15 @@
         </p>
         <hr>
         <p class="user-info-item">
-            <img src="img/location.png">
+            <img src="../assets/img/location.png">
             Москва, Юбилейная 50
         </p>
         <p class="user-info-item">
-            <img src="img/mail.png">
+            <img src="../assets/img/mail.png">
             coldrabbit48@example.com
         </p>
         <p class="user-info-item">
-            <img src="img/phone.png">
+            <img src="../assets/img/phone.png">
             +7-495-266-57-34
         </p>
     </div>
